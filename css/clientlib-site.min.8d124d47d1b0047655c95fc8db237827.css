@@ -13755,15 +13755,15 @@
 }
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .image-article-type.podcast-icon {
     display: block;
-    background-image: url(clientlib-site/resources/images/podcast-ico-w.svg);
+    background-image: url(../img/podcast-ico-w.svg);
 }
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .image-article-type.article-icon {
     display: block;
-    background-image: url(clientlib-site/resources/images/article-ico-w.svg);
+    background-image: url(../img/article-ico-w.svg);
 }
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .image-article-type.video-icon {
     display: block;
-    background-image: url(clientlib-site/resources/images/video-ico-w.svg);
+    background-image: url(../img/video-ico-w.svg);
 }
 .home-banner .home-banner-carousel .home-banner-button {
     width: 45px;
@@ -13776,7 +13776,7 @@
     background-color: transparent;
     cursor: pointer;
     z-index: 1;
-    background-image: url(clientlib-site/resources/images/right-white-arrow.svg);
+    background-image: url(../img/right-white-arrow.svg);
 }
 @media (prefers-contrast: more) {
     .home-banner .home-banner-carousel .home-banner-button {
@@ -13801,7 +13801,7 @@
 .home-banner .home-banner-carousel .home-banner-button.home-banner-play-pause {
     -webkit-transform: translateY(-5pc);
     transform: translateY(-5pc);
-    background-image: url(clientlib-site/resources/images/play-btn.svg);
+    background-image: url(../img/play-btn.svg);
     background-size: 14px;
 }
 @media (prefers-contrast: more) {
@@ -13817,7 +13817,7 @@
     }
 }
 .home-banner .home-banner-carousel .home-banner-button.home-banner-play-pause.playing {
-    background-image: url(clientlib-site/resources/images/pause.svg);
+    background-image: url(../img/pause.svg);
 }
 @media (prefers-contrast: more) {
     .home-banner .home-banner-carousel .home-banner-button.home-banner-play-pause.playing {
@@ -27772,7 +27772,7 @@ header .opacity-1 {
     opacity: 1 !important;
 }
 header .header-right-arrow-icon {
-    background-image: url(clientlib-site/resources/images/right-navigation.svg);
+    background-image: url(../img/right-navigation.svg);
     height: 0.875rem;
     width: 0.5rem;
     display: inline-block;
@@ -27940,7 +27940,7 @@ header .navbar-collapse.navbarOpen {
     z-index: 10;
 }
 header .header-dropdown-icon {
-    background-image: url(clientlib-site/resources/images/accrodion/down-arrow.svg);
+    background-image: url(../img/down-arrow.svg);
     display: inline-block;
     width: 0.875rem;
     height: 0.5rem;
@@ -27961,7 +27961,7 @@ header .header-dropdown-icon {
     }
 }
 header .desktop-header-dropdown-icon {
-    background-image: url(clientlib-site/resources/images/accrodion/down-arrow.svg);
+    background-image: url(../img/down-arrow.svg);
     display: inline-block;
     width: 10px;
     height: 0.375rem;
@@ -27983,7 +27983,7 @@ header .desktop-header-dropdown-icon {
     }
 }
 header .header-plus-icon {
-    background-image: url(clientlib-site/resources/images/accrodion/plus-white.svg);
+    background-image: url(../img/plus-white.svg);
     display: inline-block;
     width: 0.875rem;
     height: 0.875rem;
@@ -27996,7 +27996,7 @@ header .l3-expand-icon {
     background-position-x: right;
 }
 header .header-minus-icon {
-    background-image: url(clientlib-site/resources/images/accrodion/minus-white.svg);
+    background-image: url(../img/minus-white.svg);
     display: inline-block;
     width: 1rem;
     height: 0.125rem;
@@ -28126,7 +28126,7 @@ header .nav_item_li .nav-underline {
     opacity: 0;
 }
 header .search-icon {
-    background-image: url(clientlib-site/resources/images/search-icon.svg);
+    background-image: url('../img/search-icon.svg');
     width: 1.25rem;
     height: 1.25rem;
     display: inline-block;
@@ -28948,7 +28948,7 @@ header .main-header {
     }
 }
 .hero-banner-container .hero-video-container .s7playpausebutton[selected="false"] {
-    background-image: url(clientlib-site/resources/images/video/pause-white-btn.svg) !important;
+    background-image: url(../img/pause-white-btn.svg) !important;
 }
 .hero-banner-container .hero-video-container .s7playpausebutton[selected="false"]:after {
     color: #fff;
@@ -28961,7 +28961,7 @@ header .main-header {
     font-family: Basis-regular;
 }
 .hero-banner-container .hero-video-container .s7playpausebutton[selected="true"] {
-    background-image: url(clientlib-site/resources/images/video/play-white-btn.svg) !important;
+    background-image: url(../img/play-white-btn.svg) !important;
 }
 .hero-banner-container .hero-video-container .s7playpausebutton[selected="true"]:after {
     margin-left: 15px;
@@ -29057,7 +29057,7 @@ header .main-header {
     margin-right: 50px;
 }
 .hero-banner-container .hero-banner-inner-container .hero-banner-CTA-link.cta-arrow-animation:after {
-    background: #fff url(clientlib-site/resources/images/arrow-right-b.svg) no-repeat 50%;
+    background: #fff url(../img/arrow-right-b.svg) no-repeat 50%;
 }
 @media (prefers-contrast: more) {
     .hero-banner-container .hero-banner-inner-container .hero-banner-CTA-link.cta-arrow-animation:after {
@@ -29335,10 +29335,10 @@ header .main-header {
     z-index: 2 !important;
 }
 .hero-banner-container-editor .hero-video-container .s7playpausebutton[selected="false"] {
-    background-image: url(clientlib-site/resources/images/video/pause-white-btn.svg) !important;
+    background-image: url(../img/pause-white-btn.svg) !important;
 }
 .hero-banner-container-editor .hero-video-container .s7playpausebutton[selected="true"] {
-    background-image: url(clientlib-site/resources/images/video/play-white-btn.svg) !important;
+    background-image: url(../img/play-white-btn.svg) !important;
 }
 .hero-banner-container-editor .hero-banner-inner-container,
 .hero-banner-container-editor .hero-video-container-content {
@@ -29413,7 +29413,7 @@ header .main-header {
     margin-right: 50px;
 }
 .hero-banner-container-editor .hero-banner-inner-container .hero-banner-CTA-link.cta-arrow-animation:after {
-    background: #fff url(clientlib-site/resources/images/arrow-right-b.svg) no-repeat 50%;
+    background: #fff url(../img/arrow-right-b.svg) no-repeat 50%;
 }
 @media (prefers-contrast: more) {
     .hero-banner-container-editor .hero-banner-inner-container .hero-banner-CTA-link.cta-arrow-animation:after {
@@ -29495,7 +29495,7 @@ header .main-header {
     transform: translate(-50%, -50%);
     width: 72px;
     height: 72px;
-    background: url(clientlib-site/resources/images/play-button.svg) no-repeat 50%;
+    background: url(../img/play-button.svg) no-repeat 50%;
     background-size: cover;
     border: none;
 }
