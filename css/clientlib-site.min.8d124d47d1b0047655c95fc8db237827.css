@@ -13717,7 +13717,7 @@
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .home-banner-content {
     top: 0;
     left: 0;
-    width: 80%;
+    width: 100%;
     left: 5.7%;
 }
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .home-banner-content .home-banner-title {
@@ -52941,6 +52941,7 @@ ul:has(li .hero-banner-investor-description) {
 	margin-top: 11px;
     font-size: 14px;
 }
+
 
 .section-bg-dark .solution-card-swiper-button-next,
 .section-bg-dark .solution-card-swiper-button-prev {
