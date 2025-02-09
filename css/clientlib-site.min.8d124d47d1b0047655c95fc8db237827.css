@@ -13720,6 +13720,9 @@
     width: 100%;
     left: 5.7%;
 }
+.card-body{
+	padding:5px;
+}
 .home-banner .home-banner-carousel .home-banner-slide .home-banner-box .home-banner-content .home-banner-title {
     font-size: 4rem;
     line-height: 4rem;
@@ -34549,7 +34552,7 @@ header .main-header {
     margin-top: 3rem;
     padding: 9pt 52px 9pt 2pc;
     width: auto;
-    color: #fff;
+    color: #222;
 }
 @media only screen and (max-width: 1199px) {
     .insight-container-section .view-all-btn {
